@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\bin\Debug\net6.0\Example002-HelloUser.exe
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\bin\Debug\net6.0\Example002-HelloUser.deps.json
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\bin\Debug\net6.0\Example002-HelloUser.runtimeconfig.json
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\bin\Debug\net6.0\Example002-HelloUser.dll
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\bin\Debug\net6.0\Example002-HelloUser.pdb
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\Example002-HelloUser.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\Example002-HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\Example002-HelloUser.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\Example002-HelloUser.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\Example002-HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\Example002-HelloUser.dll
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\refint\Example002-HelloUser.dll
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\Example002-HelloUser.pdb
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\Example002-HelloUser.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\Обучение\Знакомство с программированием\Лекции\Example\Example002-HelloUser\obj\Debug\net6.0\ref\Example002-HelloUser.dll
